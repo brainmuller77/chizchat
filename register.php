@@ -15,24 +15,24 @@ require 'includes/form_handlers/login_handler.php';
 <!--===============================================================================================-->  
     <link rel="icon" type="image/png" href="login/images/icons/favicon.ico"/>
 <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="login/vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="login/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="login/fonts/iconic/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" type="text/css" href="fonts/iconic/css/material-design-iconic-font.min.css">
 <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="login/vendor/animate/animate.css">
+    <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
 <!--===============================================================================================-->  
-    <link rel="stylesheet" type="text/css" href="login/vendor/css-hamburgers/hamburgers.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
 <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="login/vendor/animsition/css/animsition.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
 <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="login/vendor/select2/select2.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
 <!--===============================================================================================-->  
-    <link rel="stylesheet" type="text/css" href="login/vendor/daterangepicker/daterangepicker.css">
+    <link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
 <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="login/css/util.css">
-    <link rel="stylesheet" type="text/css" href="login/css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/util.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
 <!--===============================================================================================-->
 <script src="assets/js/register.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
